@@ -19,7 +19,7 @@ public class K_th_number {
 	 */
 	public int[] solution(int[] array, int[][] commands) {
 		for(int i = 0; i<commands.length; i++) {
-			for(int k = 1; k<3; k++) {
+			for(int k = 0; k<2; k++) {
 				System.out.println(commands[i][k]);
 			}
 		}

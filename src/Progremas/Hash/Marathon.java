@@ -5,6 +5,7 @@ import java.util.HashMap;
 public class Marathon {
 
 	public static void main(String[] args) {
+		
 		Marathon hash = new Marathon(); // class를 가져와서 함수 사용
 
 		String[] a = { "mislav", "stanko", "mislav", "ana" };
