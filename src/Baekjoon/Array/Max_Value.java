@@ -2,7 +2,7 @@ package Baekjoon.Array;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+//2562
 public class Max_Value {
 
 	public static void main(String[] args) throws Exception {

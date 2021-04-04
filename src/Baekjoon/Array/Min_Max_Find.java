@@ -2,7 +2,7 @@ package Baekjoon.Array;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+//10818
 public class Min_Max_Find {
 
 	public static void main(String[] args) throws Exception{
